@@ -1,6 +1,6 @@
 # UnitsNet.EntityFrameworkCore
 
-Functions/Methods to easily integrate UnitsNet with EntityFrameworkCore. Currently, this only has [Value Conversions](https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions). Feel free to open an issue if there are features we can add to this library.
+Functions/Methods to easily integrate [UnitsNet](https://github.com/angularsen/UnitsNet) with [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore/). Currently, this only has [Value Conversions](https://docs.microsoft.com/en-us/ef/core/modeling/value-conversions). Feel free to [open a new issue](https://github.com/gojanpaolo/UnitsNet.EntityFrameworkCore/issues/new) if there are features we can add to this library.
 
 ## Install
 
