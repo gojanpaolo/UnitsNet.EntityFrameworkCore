@@ -7,7 +7,7 @@ Functions/Methods to easily integrate UnitsNet with EntityFrameworkCore. Current
 Run the following command in your [Package Manager Console](https://docs.microsoft.com/en-us/nuget/tools/package-manager-console):
 
   ```bash
-  `install-package UnitsNet.EntityFrameworkCore`
+  install-package UnitsNet.EntityFrameworkCore
   ```
 
 ## Value Conversion
